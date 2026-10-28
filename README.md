@@ -1,1 +1,1 @@
-# dog-vs-cat-classifier
+Dog vs Cat Classifier is a deep learning computer vision model designed to classify images of cats and dogs with high accuracy. Built using convolutional neural networks (CNNs), the model processes input pet images, extracts key visual features, and outputs probabilistic predictions to differentiate between canine and feline classes.
